@@ -1,0 +1,367 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 146,
+    "sha256": "7dd6bd2fbfb710da54548c0677c1d50cea25f79858619505d85a7e0d7a946bfe"
+  },
+  {
+    "path": "README.md",
+    "bytes": 4963,
+    "sha256": "cc250a1ce28638a88c25744ee64c9d351e869ae1f54b1db85c4e93b40c2fffd8"
+  },
+  {
+    "path": "agents/01-chief-orchestrator.md",
+    "bytes": 2475,
+    "sha256": "41edc08de13b142991a048ec7cfc6b48fa9f2284c00422bde02757976e8e95f0"
+  },
+  {
+    "path": "agents/02-channel-manager.md",
+    "bytes": 2453,
+    "sha256": "0f7dbcf9cfd942da81675b50cf9e144e087edfef11a95a9cd65c6ec1e17632d7"
+  },
+  {
+    "path": "agents/03-trend-hunter.md",
+    "bytes": 2355,
+    "sha256": "477d07c53d62eaae5468003304f724121788c7fb0a8897a0e7e4f6a1dc484d10"
+  },
+  {
+    "path": "agents/04-audience-analyst.md",
+    "bytes": 2436,
+    "sha256": "79eda32b20e050116f3d91da2de2ca7e047dd400ca4007bbe3aaa8174d8199cb"
+  },
+  {
+    "path": "agents/05-competitor-analyst.md",
+    "bytes": 2379,
+    "sha256": "2f347d0612e5787f7c6ceb02da9cb1c27cb7bd05cbb94c0348d26a53082ee7d9"
+  },
+  {
+    "path": "agents/06-content-strategist.md",
+    "bytes": 2358,
+    "sha256": "a3a5f7fb14794c1b80105361a0766903dcc5f9ad709fc1bb27200bc1a28ccb2a"
+  },
+  {
+    "path": "agents/07-research-lead.md",
+    "bytes": 2376,
+    "sha256": "9ce9a42b9bfb292fc7b143dbd821a0674e1577e365a1024af74336af51913e28"
+  },
+  {
+    "path": "agents/08-source-hunter.md",
+    "bytes": 2321,
+    "sha256": "adb0224569a4cc7bfac62a4f486af50b285a29a0dddbaeca6952ddae42c4e9e5"
+  },
+  {
+    "path": "agents/09-fact-checker.md",
+    "bytes": 2358,
+    "sha256": "d388204afa385237b7ce1cfe5e5d19eee346c66e9b89c8994c2f345340994135"
+  },
+  {
+    "path": "agents/10-scientific-reviewer.md",
+    "bytes": 2411,
+    "sha256": "ad873635845ab101c15ca6649841891d1011b0905c24f995e8a39cde7b2c8d71"
+  },
+  {
+    "path": "agents/11-copyright-auditor.md",
+    "bytes": 2379,
+    "sha256": "4ea6257577132fac43e0b3fe0924071e967a7d18b260e8c0107ff973cdc9e6db"
+  },
+  {
+    "path": "agents/12-scriptwriter.md",
+    "bytes": 2369,
+    "sha256": "c9172e725e8f5c1a0382f9333068966c91a99b01d53bf5d7260a4c3e950eead5"
+  },
+  {
+    "path": "agents/13-storytelling-editor.md",
+    "bytes": 2378,
+    "sha256": "3e465a7eb44288e6c4df20b9a7d0ae15cf9fe9a362ba77285eb9b28819e26c3e"
+  },
+  {
+    "path": "agents/14-script-reviewer.md",
+    "bytes": 2386,
+    "sha256": "9e5e5fee297c19a1a940996575e172a14963c1dd87790b62896df71088dc97e3"
+  },
+  {
+    "path": "agents/15-storyboard-designer.md",
+    "bytes": 2391,
+    "sha256": "cee35cdf9af49c8990db9dcb6e3afb148c552b440d08d5ead3a7f3d5e07a9893"
+  },
+  {
+    "path": "agents/16-seo-specialist.md",
+    "bytes": 2371,
+    "sha256": "10222e0719c8b8e0b4129896f7e9211a218f6bd0ced4662fecfed45d20cc4963"
+  },
+  {
+    "path": "agents/17-production-manager.md",
+    "bytes": 2408,
+    "sha256": "943869fdacc79d1b08be54fe3ccf975cd8265e3da833203785bdd21ec8f7f1c7"
+  },
+  {
+    "path": "agents/18-voice-director.md",
+    "bytes": 2379,
+    "sha256": "67901d30048bb0d37d31ce939acf6fddf826c64d44052fb5af727f0d85697601"
+  },
+  {
+    "path": "agents/19-voice-generator.md",
+    "bytes": 2374,
+    "sha256": "3a5f47bfbbbeae5c595249cb32f4d17f7be30bc4e45db38de4f207441cfc80d1"
+  },
+  {
+    "path": "agents/20-visual-asset-creator.md",
+    "bytes": 2391,
+    "sha256": "5c87d7f30a5cd0b280353f7d0cf1c5b5ba99e0ac5a13e360e147fd5cce85ec67"
+  },
+  {
+    "path": "agents/21-footage-researcher.md",
+    "bytes": 2343,
+    "sha256": "55102d316ab1ee269389684c1f35dcb800a6b5dc030107d6b2651003037ac79a"
+  },
+  {
+    "path": "agents/22-video-editor.md",
+    "bytes": 2350,
+    "sha256": "48d9f79329443802770d403138ce87487e104568bdc58228c470fa0b7052298f"
+  },
+  {
+    "path": "agents/23-quality-controller.md",
+    "bytes": 2426,
+    "sha256": "4f98260daa7e2e61384ae1915bf978e646e9a1e6d982027a34e988e0d61e6c99"
+  },
+  {
+    "path": "agents/24-publishing-manager.md",
+    "bytes": 2382,
+    "sha256": "65da4b442bfd67adfb1d911d3ded8b13e9c4292c416428b31fa1cf18e70773b3"
+  },
+  {
+    "path": "agents/25-youtube-uploader.md",
+    "bytes": 2395,
+    "sha256": "7a6ad30eba435248cb58c19dee5e96b98c0cdbdb0de0cf86c609f79bec21519c"
+  },
+  {
+    "path": "agents/26-metadata-manager.md",
+    "bytes": 2421,
+    "sha256": "3d493ce45e9c7201993e797a02a2211e2046de3623a3a2bdfca52a8c564efd97"
+  },
+  {
+    "path": "agents/27-comment-moderator.md",
+    "bytes": 2408,
+    "sha256": "cad05f9a6bbe66aeebfd7cd0a4b4c88eb62357f0d6c61e08cc1df4d7aea52c59"
+  },
+  {
+    "path": "agents/28-community-manager.md",
+    "bytes": 2370,
+    "sha256": "0a6a499c4d495c5e6ba17d721fccef8a5092b32c53ed671252c3b6d04460a2e7"
+  },
+  {
+    "path": "agents/29-analytics-collector.md",
+    "bytes": 2382,
+    "sha256": "dfb9ad49ecdf694324447af29abc4d19e25a6c255e483eba7219617b471da637"
+  },
+  {
+    "path": "agents/30-performance-analyst.md",
+    "bytes": 2380,
+    "sha256": "fb4d2bbab54d21236e6e375f2bae76e16ff43e0a668cd642ee96f326cfb9a617"
+  },
+  {
+    "path": "agents/31-retention-analyst.md",
+    "bytes": 2354,
+    "sha256": "54b9b49bb7a23820372884416676609019c3a3c6245bc0eeca9016653b02db48"
+  },
+  {
+    "path": "agents/32-experiment-manager.md",
+    "bytes": 2390,
+    "sha256": "091fae309aa61100a289c6795235570840f062c0747e344b0fb2072dd18c8361"
+  },
+  {
+    "path": "agents/33-growth-strategist.md",
+    "bytes": 2372,
+    "sha256": "ef1ace1d2ca821debdb3c3b01401c3184de801e01dc5c91caa196ae51fe31749"
+  },
+  {
+    "path": "agents/34-budget-and-resource-manager.md",
+    "bytes": 2457,
+    "sha256": "ef9e52902b34270e3d2d4a43fea5f21c187fcd6b9a80129d90f27f1e144d5b1f"
+  },
+  {
+    "path": "agents/35-security-and-compliance-auditor.md",
+    "bytes": 2437,
+    "sha256": "5a2c89783f5eb5790c5585367d7a5ab14abf893928f31992cea68ddbe620cc8e"
+  },
+  {
+    "path": "agents/AGENT-REGISTRY.md",
+    "bytes": 1950,
+    "sha256": "de78c917bfd4801bb52cc003cd302aec94a7a0d0c073b80db84eecdb579be42f"
+  },
+  {
+    "path": "architecture/CHANNEL-ISOLATION.md",
+    "bytes": 720,
+    "sha256": "718e05a2759228293287b4afd08800463450a6ebe9f781e2f28d8233bbb05e7f"
+  },
+  {
+    "path": "architecture/PROVIDER-ABSTRACTION.md",
+    "bytes": 813,
+    "sha256": "7b20904eddfeaf6137ba21b755add916d30aa0af1d3b598d21efe8a44400a2d8"
+  },
+  {
+    "path": "architecture/SYSTEM-OVERVIEW.md",
+    "bytes": 1195,
+    "sha256": "51c79d517b59cce1fa42a722d4c2739b0085005ee9b746050045d73a70be4d5e"
+  },
+  {
+    "path": "architecture/WORKFLOW-STATE-MACHINE.md",
+    "bytes": 920,
+    "sha256": "9fe05d4c040c1cc664479018aab5194e8cc890a1a8142d2f059ad15ca216abfd"
+  },
+  {
+    "path": "config/.env.example",
+    "bytes": 1001,
+    "sha256": "99e1369234d64591db788db12c47bfc038b6a1cc8104d7cd6e11e8084c384147"
+  },
+  {
+    "path": "config/local-worker.example.json",
+    "bytes": 511,
+    "sha256": "aad2b553dde62704b82159a07f09549114b27335ff3e1918dafad0cb1e909a8b"
+  },
+  {
+    "path": "policies/ASSET-RIGHTS-POLICY.md",
+    "bytes": 645,
+    "sha256": "7676bee180a8f61e5f830a71a9674e500d7316ba918e63eeae687d127d07f117"
+  },
+  {
+    "path": "policies/BUDGET-AND-QUOTA-POLICY.md",
+    "bytes": 978,
+    "sha256": "0067b0724a49872f349db689962d747d8d8c99242cc2e228b9334d0e387f984b"
+  },
+  {
+    "path": "policies/COMMENT-MODERATION-POLICY.md",
+    "bytes": 675,
+    "sha256": "b7f45780ad44b52f76d8c326f1a471562cc63a19046233abcc2713bf6ca15e2a"
+  },
+  {
+    "path": "policies/EDITORIAL-AND-EVIDENCE-POLICY.md",
+    "bytes": 1007,
+    "sha256": "59b7a6106fb484cd734c6be6525ce68b2639df69b86a6b898c5bea2ff8cbd65e"
+  },
+  {
+    "path": "policies/GLOBAL-AUTONOMY-POLICY.md",
+    "bytes": 1370,
+    "sha256": "1eab17c2a7f5457bb415c7aa80bd6fa9029b783a75ecb3edfe81afc74805f5a9"
+  },
+  {
+    "path": "policies/SECURITY-AND-PRIVACY-POLICY.md",
+    "bytes": 881,
+    "sha256": "4c8277be56f3ef4a01c7a3a63f0ab4c4f5c5021b685acdf1c5e3e5d7bdb2a696"
+  },
+  {
+    "path": "project/BUILD_STATUS.md",
+    "bytes": 845,
+    "sha256": "b32d0e1bf68841b63645cca4d13d3e9cbb1b57b6b832e9730ed1910923e2916f"
+  },
+  {
+    "path": "project/DECISIONS.md",
+    "bytes": 142,
+    "sha256": "2f21eb43ca37f822094fe59281301514f3918346d53e56d70c223765fec10162"
+  },
+  {
+    "path": "project/RISKS.md",
+    "bytes": 580,
+    "sha256": "6f048d8198e9d8a9136fa59ac60be3d99511d6dc6ca4f3d7756bc2cd4d60d33e"
+  },
+  {
+    "path": "project/TRACEABILITY.md",
+    "bytes": 632,
+    "sha256": "140e2f960a7fff7bde5ec4ad3254f2e3a7bb7eec8e4c6073cb8c4b6575ba50e9"
+  },
+  {
+    "path": "prompts/00-START-HERE.md",
+    "bytes": 5632,
+    "sha256": "b8b84a326c87aac16f9b69fa01f8c590f56d70df1e4b5acad6b5dd8ef2708fd5"
+  },
+  {
+    "path": "prompts/01-REPOSITORY-AUDIT.md",
+    "bytes": 1662,
+    "sha256": "98a6fa8aa29e9a3c54d14603a32971731d91f25f135956b1e6a431bc657ea0ce"
+  },
+  {
+    "path": "prompts/02-FOUNDATION-ARCHITECTURE.md",
+    "bytes": 2030,
+    "sha256": "405801e68ac219a89236b7b7c220c270423de807cb6cb7fe8272e19d22d359de"
+  },
+  {
+    "path": "prompts/03-DATABASE-AND-SECURITY.md",
+    "bytes": 2398,
+    "sha256": "91d38ac5ed5e41345ce40688fd683c4cf9ba107c534717d5d3104b75726df776"
+  },
+  {
+    "path": "prompts/04-AGENT-RUNTIME-35.md",
+    "bytes": 2448,
+    "sha256": "29b97ee00eef69484a291474eb7500e6afd2db202f52fd91f2e5e00b264017f1"
+  },
+  {
+    "path": "prompts/05-ORCHESTRATION-AND-QUEUES.md",
+    "bytes": 2299,
+    "sha256": "909ddc98a65d8862fb462b1739d6f13735ce1147b887402d553406388d1bf995"
+  },
+  {
+    "path": "prompts/06-RESEARCH-AND-CONTENT.md",
+    "bytes": 2690,
+    "sha256": "9d5c596c4820e6c5e3e8415e8e51c5f68d3273f6bfcef062d301c04402380742"
+  },
+  {
+    "path": "prompts/07-MEDIA-PIPELINE.md",
+    "bytes": 2785,
+    "sha256": "181b8feb39bd3132885858d1c59e2c649ac2af7c9b6f9a23bb34ca75d0647f5a"
+  },
+  {
+    "path": "prompts/08-YOUTUBE-AND-COMMUNITY.md",
+    "bytes": 2797,
+    "sha256": "2ed3bdcab0c194d1cab84ccafd70bff574bfa1d40f9560fabe211125221a85ef"
+  },
+  {
+    "path": "prompts/09-LOCAL-WINDOWS-WORKER.md",
+    "bytes": 2563,
+    "sha256": "4b3759dcbf6d97cb0187d1bbbe0716b61b67ff920bfb5309f7add0f9748018ca"
+  },
+  {
+    "path": "prompts/10-OBSERVABILITY-AND-RECOVERY.md",
+    "bytes": 2302,
+    "sha256": "831597a31a56f07ab0f4bca7126b7bbe8c91fd9abd42ca1853ac3f42570d3a60"
+  },
+  {
+    "path": "prompts/11-TESTING-AND-SECURITY-REVIEW.md",
+    "bytes": 2275,
+    "sha256": "77d812a8b080d3f31b5086fae385c996ce8ec1ca207c5034e0905c891de3eb83"
+  },
+  {
+    "path": "prompts/12-DEPLOYMENT-AND-HANDOVER.md",
+    "bytes": 2497,
+    "sha256": "fed22d872fa7ce66e6010b7cca4b530ca7fc50a0d28c367f2bc2edfc1cbd8451"
+  },
+  {
+    "path": "quality/ERROR-CATALOG.md",
+    "bytes": 2277,
+    "sha256": "8225209f423eed30e577d40d2bf1c79d5feef80855d0cc6c1daded596e94ee85"
+  },
+  {
+    "path": "quality/QUALITY-GATES.md",
+    "bytes": 1161,
+    "sha256": "05416945fb040091e207e8d7670f27a1d19560d48f49a5d3ba10fc834cad105f"
+  },
+  {
+    "path": "quality/RELEASE-CHECKLIST.md",
+    "bytes": 755,
+    "sha256": "72cfdae332c4c2929bd89337265864e5cb53e12f8b11371127a5eb65fc393659"
+  },
+  {
+    "path": "quality/TEST-STRATEGY.md",
+    "bytes": 981,
+    "sha256": "9d27d12bc15c111258e00a0483ef40fa3ef1b97def1ab1fb1b9e4e44d6fe9680"
+  },
+  {
+    "path": "schemas/agent-result.schema.json",
+    "bytes": 1072,
+    "sha256": "190f1055fa1c0b3463f04a8ca0ab947e9fbed22283e01ad84e8d8fc0fdb26cc9"
+  },
+  {
+    "path": "schemas/agent-task.schema.json",
+    "bytes": 1427,
+    "sha256": "ecff9bee320149f062b64c0254cf44b15faf90b100a2db83ed35ab80f87c4ef3"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "workerName": "k3rito-windows-worker",
+  "platform": "windows",
+  "capabilities": {
+    "ffmpeg": true,
+    "ffprobe": true,
+    "chatterbox": false,
+    "gpu": "NVIDIA GTX 1070 8GB",
+    "ramGb": 16,
+    "maxConcurrentGpuJobs": 1
+  },
+  "security": {
+    "outboundOnly": true,
+    "allowArbitraryShell": false,
+    "perJobWorkspace": true,
+    "uploadLogsRedacted": true
+  },
+  "limits": {
+    "maxJobMinutes": 90,
+    "maxInputFileGb": 10,
+    "maxOutputFileGb": 10,
+    "cleanupTempAfterHours": 24
+  }
+}

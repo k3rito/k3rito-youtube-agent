@@ -1,0 +1,71 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "K3RITO Agent Task Envelope",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "task_id",
+    "channel_id",
+    "agent_id",
+    "workflow_id",
+    "objective",
+    "policy_version",
+    "attempt",
+    "idempotency_key",
+    "allowed_capabilities"
+  ],
+  "properties": {
+    "task_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "channel_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "agent_id": {
+      "type": "string",
+      "pattern": "^(0[1-9]|[12][0-9]|3[0-5])$"
+    },
+    "workflow_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "objective": {
+      "type": "string",
+      "minLength": 1
+    },
+    "input_artifact_refs": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "policy_version": {
+      "type": "string",
+      "minLength": 1
+    },
+    "deadline": {
+      "type": ["string", "null"],
+      "format": "date-time"
+    },
+    "attempt": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "idempotency_key": {
+      "type": "string",
+      "minLength": 8
+    },
+    "allowed_capabilities": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "budget_reservation_id": {
+      "type": ["string", "null"]
+    }
+  }
+}

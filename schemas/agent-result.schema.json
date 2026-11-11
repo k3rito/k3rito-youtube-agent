@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "K3RITO Agent Result",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "status",
+    "summary",
+    "output_artifact_refs",
+    "evidence_refs",
+    "warnings",
+    "next_task_suggestions"
+  ],
+  "properties": {
+    "status": {
+      "enum": ["COMPLETED", "NEEDS_INPUT", "BLOCKED", "FAILED"]
+    },
+    "summary": {
+      "type": "string"
+    },
+    "output_artifact_refs": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "evidence_refs": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "warnings": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "next_task_suggestions": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "usage": {
+      "type": ["object", "null"]
+    },
+    "failure": {
+      "type": ["object", "null"]
+    }
+  }
+}
